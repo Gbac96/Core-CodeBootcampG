@@ -14,7 +14,7 @@ JavaScript is mainly used for web-based applications and web browsers. But JavaS
 Incorporating JavaScript improves the user experience of the web page by converting it from a static page into an interactive one. To recap, JavaScript adds behavior to web pages.
 
 
-What is an interpreted language?
+## What is an interpreted language?
 ---
 An interpreted language is a programming language which are generally interpreted, without compiling a program into machine instructions. It is one where the instructions are not directly executed by the target machine, but instead read and executed by some other program. Interpreted language ranges – JavaScript, Perl, Python, BASIC, etc.
 
@@ -54,7 +54,35 @@ Why is pseudocode helpful?
 
 Pseudocode is a way of writing program in wich you represent the sequence of actions and and instruction, in a form that humans can easily understand. By doing Pseudocodo it will be easier to find a best solution to the problem.
 
+ 1. Create a pseudocode to calculate the aproximated age of a user base on the year they born.
+
+Variables
+1. ActualYear
+2. UserYear
+3. Age = ActualYear - UserYear
+
+start
+
+ 1. enter current year.(ActualYear)
+ 2. enter the year you were born. (UserYear)
+ 3. Your age is(Age).
+ 
+ end.
+ 
+ 
+Flowcharts
+---
+It is a diagrammatic representation of the solution to a given problem, but more importantly, it provides a breakdown of the essential steps to solving the problem.
+
+FLOWCHARTS EXAMPLE
+---
+
+![FLOWCHARTS EXAMPLE](https://www.ucl.ac.uk/culture-online/sites/culture_online/files/styles/large_image/public/flowcharts_2x.png?itok=mDKT7LMw)
 
 
+What is the most important part of a flow chart?
+---
+
+Readability is probably the most important aspect of a flowchart. As the diagrammatic representation of a process, the flowchart aims to offer a visual description of a process to help us understand what is going on.
 
 
