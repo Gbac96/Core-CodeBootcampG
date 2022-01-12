@@ -52,4 +52,9 @@ end
 Why is pseudocode helpful?
 ---
 
+Pseudocode is a way of writing program in wich you represent the sequence of actions and and instruction, in a form that humans can easily understand. By doing Pseudocodo it will be easier to find a best solution to the problem.
+
+
+
+
 
