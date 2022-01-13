@@ -24,7 +24,8 @@ My first Code on JavaScript
 Click here --> [HELLO WORLD](https://spaces.w3schools.com/space/firstcodebm/editor)
   
 ---
-Week challenges
+First Week challenges #
+---
 
 Java language is compiled or interpreted?
 ---
