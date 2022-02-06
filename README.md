@@ -1,4 +1,5 @@
-# Core-CodeBootcampG
+<p align="center"># Core-CodeBootcampG</p>
+
 **What is JavaScript?**
 ---
 ---
